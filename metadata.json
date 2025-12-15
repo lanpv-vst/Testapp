@@ -1,0 +1,5 @@
+{
+  "name": "Tabmis AutoGen",
+  "description": "A modern replacement for DataLoad configuration. Generate TABMIS automation scripts (DataLoad & AutoHotKey) from a clean spreadsheet interface with AI-powered data import.",
+  "requestFramePermissions": []
+}
